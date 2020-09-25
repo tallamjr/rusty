@@ -29,5 +29,7 @@
 5. https://github.com/pingcap/talent-plan/
 6. https://university.pingcap.com/talent-plan/
 7. https://db.cs.washington.edu/courses.html
-8. Fundamentals of Operating Systems -->
+8. [Learning Embedded Rust with Knurling-rs](https://ferrous-systems.com/blog/knurling-sessions-introduction/)
+9. [Learning Rust: OMG WTF RS – resources to help you get started with Rust](https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/)
+10. Fundamentals of Operating Systems -->
    1. https://www.youtube.com/playlist?list=PLW1yb8L3S1ngGmtKlI5XYcTNQQ1r3xZvq
