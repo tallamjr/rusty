@@ -1,7 +1,6 @@
 # Learning Rust
 
-![ferris](https://rustacean.net/assets/rustacean-flat-happy.png)
-<img src="https://rustacean.net/assets/rustacean-flat-happy.png" alt="drawing" width="200"/>
+<img src="https://rustacean.net/assets/rustacean-flat-happy.png" alt="drawing" width="250"/>
 
 ## Learning the Rust Language
 
