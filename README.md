@@ -23,6 +23,15 @@
 * Rust 2020: the RFC process and distributions:
   - https://spacekookie.de/blog/rust-2020-the-rfc-process-and-distributions/
 
+### YouTube Gold
+
+* [David Pedersen YT Channel](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ/videos)
+* [Brian Myers AOC 2019 in rust](https://www.youtube.com/playlist?list=PLQXBtq4j4Ozkx3r4eoMstdkkOG98qpBfg)
+    - [Github repo](https://github.com/bcmyers/aoc2019)
+* [James Munns, from Ferrous Systems, Internet of Streams - IoT with Embedded Rustlang](https://www.youtube.com/playlist?list=PLX44HkctSkTewrL9frlUz0yeKLKecebT1)
+    - [Github repo](https://github.com/ferrous-systems/internet-of-streams)
+* [Jon Gjengset YT Channel](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
+
 ### Related Project Ideas
 
 * Re-implement code in rust for https://github.com/tallamjr/mbms
