@@ -31,6 +31,7 @@
 * [James Munns, from Ferrous Systems, Internet of Streams - IoT with Embedded Rustlang](https://www.youtube.com/playlist?list=PLX44HkctSkTewrL9frlUz0yeKLKecebT1)
     - [Github repo](https://github.com/ferrous-systems/internet-of-streams)
 * [Jon Gjengset YT Channel](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
+* [Ryan Levik YT Channel](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ)
 
 ### Related Project Ideas
 
