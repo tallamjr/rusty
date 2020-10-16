@@ -14,6 +14,7 @@
 * [ONLINE-BOOK: knurling-rs-book](https://knurling-books.ferrous-systems.com/introduction.html)
 * [ONLINE-BOOK: `microrust`](https://droogmic.github.io/microrust/)
 * [ONLINE-BOOK: The Embedded Rust Book](https://docs.rust-embedded.org/book/index.html)
+* [ONLINE-BOOK: Embedded Rust Workshop 2020 - ferrous-systems](https://embedded-trainings.ferrous-systems.com/)
 
 ## General Resources
 *  https://rustbeginners.github.io/awesome-rust-mentors/
