@@ -4,10 +4,7 @@
 
 ### My Learning Rust Roadmap 🗺️
 
-_key_:
-
-🚧 In Progress
-✅ Done
+_key_: 🚧 In Progress, ✅ Done
 
 0. 🚧 Setup dev system for rust:
     - [Vimspector](https://puremourning.github.io/vimspector-web/#ui-overview)
