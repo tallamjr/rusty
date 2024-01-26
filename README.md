@@ -6,17 +6,32 @@
 
 _key_: 🚧 In Progress, ✅ Done
 
-0. 🚧 Setup dev system for rust:
-    - [Vimspector](https://puremourning.github.io/vimspector-web/#ui-overview)
-    - [Rust and Neovim - A Thorough Guide and Walkthrough](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/)
-1. ✅ Watch [@zubiarfan's - Learn Rust Programming - Complete Course](https://www.youtube.com/watch?v=BpPEoZW5IiY&t=41523s&ab_channel=freeCodeCamp.org)
-2. Go through exercises in [Rust By Practice](https://practice.course.rs/why-exercise.html)
-3. Go through [Brown university's interactive version of Rust book](https://rust-book.cs.brown.edu/title-page.html) and complete all quizzes
-4. Go through Zero2Production book
-5. Go through [Cargo book](https://doc.rust-lang.org/cargo/index.html)
-6. Complete [Google's Comprehensive Rust course](https://google.github.io/comprehensive-rust/)
-7. Complete embedded rust course
-8. Go through Rust Embedded's [Rust-Raspberry-Pi-OS tutorial](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+%% 0. 🚧 Setup dev system for rust:
+%%     - [Vimspector](https://puremourning.github.io/vimspector-web/#ui-overview)
+%%     - [Rust and Neovim - A Thorough Guide and Walkthrough](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/)
+%% 1. ✅ Watch [@zubiarfan's - Learn Rust Programming - Complete Course](https://www.youtube.com/watch?v=BpPEoZW5IiY&t=41523s&ab_channel=freeCodeCamp.org)
+%% 2. Go through exercises in [Rust By Practice](https://practice.course.rs/why-exercise.html)
+%% 3. Go through [Brown university's interactive version of Rust book](https://rust-book.cs.brown.edu/title-page.html) and complete all quizzes
+%% 4. Go through Zero2Production book
+%% 5. Go through [Cargo book](https://doc.rust-lang.org/cargo/index.html)
+%% 6. Complete [Google's Comprehensive Rust course](https://google.github.io/comprehensive-rust/)
+%% 7. Complete embedded rust course
+%% 8. Build tinyML demo
+
+| Status | Description                                                                                                                                       | When             |
+| ------ | -----------                                                                                                                                       | ----             |
+| 🚧     | Setup dev system for rust:                                                                                                                        | w/c 22nd Jan     |
+|        | - [Vimspector](https://puremourning.github.io/vimspector-web/#ui-overview)                                                                        |                  |
+|        | - [Rust and Neovim - A Thorough Guide and Walkthrough](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/)          |                  |
+| ✅     | Watch [@zubiarfan's - Learn Rust Programming - Complete Course](https://www.youtube.com/watch?v=BpPEoZW5IiY&t=41523s&ab_channel=freeCodeCamp.org) | 22nd - 26th Jan  |
+|        | Go through exercises in [Rust By Practice](https://practice.course.rs/why-exercise.html)                                                          | 29th - 31st Jan  |
+|        | Go through [Brown university's interactive version of Rust book](https://rust-book.cs.brown.edu/title-page.html) and complete all quizzes         | 1st - 6th Feb    |
+|        | Go through Zero2Production book                                                                                                                   | 12th - 16th Feb  |
+|        | Go through [Cargo book](https://doc.rust-lang.org/cargo/index.html)                                                                               | 19th - 23rd Feb  |
+|        | Complete [Google's Comprehensive Rust course](https://google.github.io/comprehensive-rust/)                                                       | 19th - 23rd Feb  |
+|        | Complete embedded rust course                                                                                                                     | w/c 4th Mar      |
+|        | Build demo of running tinyML on an embedded device                                                                                                | w/c 11th Mar     |
+
 
 ## Learning the Rust Language 💻
 
@@ -32,6 +47,7 @@ _key_: 🚧 In Progress, ✅ Done
 * [ONLINE-BOOK: `microrust`](https://droogmic.github.io/microrust/)
 * [ONLINE-BOOK: The Embedded Rust Book](https://docs.rust-embedded.org/book/index.html)
 * [ONLINE-BOOK: Embedded Rust Workshop 2020 - ferrous-systems](https://embedded-trainings.ferrous-systems.com/)
+* [ONLINE-BOOK: Rust-Raspberry-Pi-OS tutorial](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 
 ### Useful Tools and Projects 🧰
 
@@ -39,8 +55,14 @@ _key_: 🚧 In Progress, ✅ Done
 * https://github.com/probe-rs/probe-rs : A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 * https://github.com/embassy-rs/embassy : Modern embedded framework, using Rust and async.
 
+#### Cool Projects Written in Rust
+
+* Polars
+* Candle
+
 ## General Resources 📚
 
+* https://github.com/rust-embedded/awesome-embedded-rust
 * https://os.phil-opp.com/ : Writing an OS in Rust Philipp Oppermann's blog
 * https://rustbeginners.github.io/awesome-rust-mentors/
 * https://www.youtube.com/playlist?list=PLQXBtq4j4Ozkx3r4eoMstdkkOG98qpBfg
@@ -59,7 +81,7 @@ _key_: 🚧 In Progress, ✅ Done
 * [Jon Gjengset YT Channel](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
 * [Ryan Levik YT Channel](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ)
 
-### Related Project Ideas 💭
+### Project Ideas 💭
 
 * Run deep learning model developed in Candle and flash to embedded device using
     the tools above, embassy, or probe-rs etc. Set up toolchain for model
